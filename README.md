@@ -14,7 +14,7 @@ This extension is for AUTOMATIC1111's [Stable Diffusion web UI](https://github.c
 
 ### Install
 
-Use **Install from URL** option with this repo url.
+Use **Install from URL** option with this repo url (full restart is required).
 
 ### Requirements
 - [rembg](https://github.com/danielgatis/rembg)
