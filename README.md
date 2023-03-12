@@ -24,13 +24,13 @@ All requirements will be installed on first use.
 ### Examples
 
 <p float="left">
-    <img width="512" src="https://github.com/ilian6806/rembgr/blob/main/static/images/00097-1988224565.png?raw=true" alt="">
-    <img width="512" src="https://github.com/ilian6806/rembgr/blob/main/static/images/00098-1746741710.png?raw=true" alt="">
+    <img width="256" src="https://github.com/ilian6806/rembgr/blob/main/static/images/00097-1988224565.png?raw=true" alt="">
+    <img width="256" src="https://github.com/ilian6806/rembgr/blob/main/static/images/00098-1746741710.png?raw=true" alt="">
 </p>
 <br/>
 <p float="left">
-    <img width="512" src="https://github.com/ilian6806/rembgr/blob/main/static/images/00084-2728809108.png?raw=true" alt="">
-    <img width="512" src="https://github.com/ilian6806/rembgr/blob/main/static/images/00087-2728809107.png?raw=true" alt="">
+    <img width="256" src="https://github.com/ilian6806/rembgr/blob/main/static/images/00084-2728809108.png?raw=true" alt="">
+    <img width="256" src="https://github.com/ilian6806/rembgr/blob/main/static/images/00087-2728809107.png?raw=true" alt="">
 </p>
 
 ### Contributing
