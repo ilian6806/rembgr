@@ -1,6 +1,6 @@
 '''
 Remove Background - Stable Diffusion Web UI extension for removing background from images
-Core logic for 'run' method is in rembgr.script.
+Core logic is in rembgr.script.
 
 Author: ilian.iliev
 Since: 09.03.2023
