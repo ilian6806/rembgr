@@ -6,11 +6,14 @@
 
 # rembgr
 
-This extension is for AUTOMATIC1111's [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+This extension is for AUTOMATIC1111's [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui). Unlike other extensions for this, it is positioned directly in txt2img and img2img tabs.
 
 ### Capabilities
 
 * Removes background after each image generation
+* Can put color instead of transparent background
+* Can put background image
+* Can put foreground image (frame for example)
 
 ### Install
 
@@ -36,4 +39,11 @@ All requirements will be installed on first use.
 ### Contributing
 
 Feel free to submit PRs to develop!
+
+<p align="center">
+  ...and you can always buy me a :beer:! <br/><br/>
+  <a href="https://www.paypal.com/paypalme/ilian6806" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate with PayPal"/>
+  </a>
+</p>
 
