@@ -12,6 +12,20 @@ This extension is for AUTOMATIC1111's [Stable Diffusion web UI](https://github.c
 
 * Removes background after each image generation
 
+### API
+Can be used with API call to **/sdapi/v1/rembgr/process** with **POST** method:
+```
+{
+    "image": "base64 encoded image"
+}
+```
+And the response will be:
+```
+{
+    "image": "base64 encoded image"
+}
+```
+
 ### Install
 
 Use **Install from URL** option with this repo url (full restart is required).
